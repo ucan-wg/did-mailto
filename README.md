@@ -85,7 +85,7 @@ Key authentication message must conform to the following ABNF definition, which 
 auth = "I am also known as " did-key-format
 ```
 
-##### EXAMLPLE 3
+##### EXAMPLE 3
 
 ```
 I am also known as did:key:z6MkhaXgBZDvotDkL5257faiztiGiC2QtKLGpbnnEGta2doK
