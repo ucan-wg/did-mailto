@@ -120,7 +120,7 @@ Key revocation message must conform to the following ABNF definition, which refe
 auth = "I revoke " did-key-format
 ```
 
-##### EXAMLPLE 3
+##### EXAMPLE 3
 
 ```
 I revoke did:key:z6MkhaXgBZDvotDkL5257faiztiGiC2QtKLGpbnnEGta2doK
