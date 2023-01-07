@@ -41,6 +41,12 @@ URIs
 interop
 permissionless
 stateful
+dns
+ABNF
+RFC1035
+RFC1123
+RFC2181
+RFC2822
 
 # actually correct
 reimagine
