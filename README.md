@@ -79,7 +79,7 @@ Creating a `did:mailto` document is done by:
 
 #### Key Authentication
 
-Key authentification message must conform to the following ABNF definition, which refers to `did-key-format` defined in [did:key] specification
+Key authentication message must conform to the following ABNF definition, which refers to `did-key-format` defined in [did:key] specification
 
 ```abnf
 auth = "I am also known as " did-key-format
