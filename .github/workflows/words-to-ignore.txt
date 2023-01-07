@@ -47,6 +47,8 @@ RFC1035
 RFC1123
 RFC2181
 RFC2822
+DKIM
+SMTP
 
 # actually correct
 reimagine
