@@ -15,13 +15,13 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 ## Abstract
 
 This specification describes "mailto" [DID Method] that
-conforms to the core [DID-CORE] specification. The method can be used independent of any central source of truth, and is intended for bootsrapping secure interaction between two parties that can span across arbitary number of devices. It is suitable for long sessions that need to operateing under network partitions.
+conforms to the core [DID-CORE] specification. The method can be used independent of any central source of truth, and is intended for bootstrapping secure interaction between two parties that can span across arbitrary number of devices. It is suitable for long sessions that need to operating under network partitions.
 
 ## Status of This Document
 
 This document is draft of a potential specification. It has no official standing of any kind and does not represent the support or consensus of any standards organization.
 
-## Intorduction
+## Introduction
 
 ### Overview
 
